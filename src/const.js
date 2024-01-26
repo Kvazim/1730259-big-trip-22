@@ -91,7 +91,7 @@ const ApiMetod = {
   DELETE: 'DELETE',
 };
 
-const SERVER_URL = 'https://22.objects.pages.academy/big-trip';
+const SERVER_URL = 'https://22.objects.htmlacademy.pro/big-trip';
 
 const BaseUrl = {
   POINTS: 'points',
